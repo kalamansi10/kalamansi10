@@ -51,5 +51,3 @@
   <a href="https://github.com/kalamansi10" target="_blank"><img src="https://img.shields.io/badge/GitHub-kalamansi10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub kalamansi10"/></a>
   <a href="https://github.com/jumanji5000" target="_blank"><img src="https://img.shields.io/badge/GitHub-jumanji5000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub jumanji5000"/></a>
 </div>
-
----
